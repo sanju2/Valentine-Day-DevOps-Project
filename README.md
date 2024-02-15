@@ -2,5 +2,5 @@
 
 ![Demo](Resources/demo.gif)
 
-[Pipeline](Resources/pipeline.png)
+![Pipeline](Resources/pipeline.png)
 
